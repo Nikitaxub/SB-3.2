@@ -11,6 +11,7 @@
 		F8F8F56A279EDA99009783F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8F569279EDA99009783F7 /* ContentView.swift */; };
 		F8F8F56C279EDA9A009783F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8F8F56B279EDA9A009783F7 /* Assets.xcassets */; };
 		F8F8F56F279EDA9A009783F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8F8F56E279EDA9A009783F7 /* Preview Assets.xcassets */; };
+		F8F8F576279F06B1009783F7 /* ColorTextValueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8F575279F06B1009783F7 /* ColorTextValueView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F8F8F569279EDA99009783F7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8F8F56B279EDA9A009783F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8F8F56E279EDA9A009783F7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8F8F575279F06B1009783F7 /* ColorTextValueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTextValueView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		F8F8F55B279EDA99009783F7 = {
 			isa = PBXGroup;
 			children = (
+				F8F8F575279F06B1009783F7 /* ColorTextValueView.swift */,
 				F8F8F566279EDA99009783F7 /* RGBsliders */,
 				F8F8F565279EDA99009783F7 /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8F8F576279F06B1009783F7 /* ColorTextValueView.swift in Sources */,
 				F8F8F56A279EDA99009783F7 /* ContentView.swift in Sources */,
 				F8F8F568279EDA99009783F7 /* RGBslidersApp.swift in Sources */,
 			);
