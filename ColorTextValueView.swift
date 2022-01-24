@@ -17,6 +17,7 @@ struct ColorTextValueView: View {
             .textFieldStyle(.roundedBorder)
             .frame(width: 50)
             .multilineTextAlignment(.trailing)
+            .keyboardType(.numberPad)
     }
 }
 
